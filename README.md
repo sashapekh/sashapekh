@@ -33,8 +33,6 @@ As a passionate back-end developer, my primary objective in all projects is to e
 
 <a href="#"><img src="https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-no-action.svg" /></a>
 
- 📢 [Updates from Ukrainian Open Source Community](CommunityUpdates.md)  
- 🇷🇺 [Обращение к гражданам России](ToRussianPeople.md)
 
 ## Support Ukraine
 
