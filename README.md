@@ -1,6 +1,27 @@
 # <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Olexander Pekh
 
-As a passionate back-end developer, my primary objective in all projects is to enhance performance for businesses and meet human needs effectively. I believe that being a programmer entails more than just writing code; it involves communicating with other professionals to collectively build superior systems. My current and future goals are to enhance my skills, enabling me to develop high-performance applications from scratch. This includes everything from creating the architecture to building and setting up CI/CD processes of varying complexity.
+👋 I'm a software engineer from Ukraine with a strong focus on backend development, infrastructure automation, and clean architectural design.
+
+## 🚀 What I Do
+- 🧠 Build complex Laravel applications using modular monolith architecture, service-repository patterns, and data pipelines
+- 🛠 Work with Golang, PostgreSQL, MongoDB, Redis, RabbitMQ and ClickHouse
+- ⚙️ Design scalable infrastructure with GitLab CI/CD, Docker, Terraform, and Hetzner/AWS
+- 💳 Implement advanced subscription/payment systems with Stripe, Laravel Cashier, and access control via AWS S3
+- 🔍 Create high-performance Elasticsearch indexing and filtering for analytics and search systems
+
+## 📊 What I’ve Built
+- Analytics dashboards for YouTube channel growth and engagement
+- Payment architecture with flexible gateway support (Stripe, LiqPay, crypto-ready)
+- Keyword aggregation and YouTube scraping systems for research and growth tracking
+- Deployment scripts and environments without Docker (manual + CI-compatible)
+- Content protection logic for SaaS platforms with subscriber-only access
+
+## 🧩 Side Interests
+- DevOps automation, system monitoring, and Redis performance optimization
+- Building pet projects to master distributed systems and async processing in Go
+- Making homemade food products, gardening, and self-development
+
+## 🛠️ Tech Stack Highlights
 
 
 ---
