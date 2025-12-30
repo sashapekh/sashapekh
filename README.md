@@ -19,7 +19,6 @@
 ## 🧩 Side Interests
 - DevOps automation, system monitoring, and Redis performance optimization
 - Building pet projects to master distributed systems and async processing in Go
-- Making homemade food products, gardening, and self-development
 
 ### 🧰 Languages and Tools
 
