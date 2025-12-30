@@ -4,7 +4,7 @@
 
 ## 🚀 What I Do
 - 🧠 Build complex Laravel applications using modular monolith architecture, service-repository patterns, and data pipelines
-- 🛠 Work with Golang, PostgreSQL, MongoDB, Redis, RabbitMQ and ClickHouse
+- 🛠 Work with Golang, PostgreSQL,MySQL, Redis, RabbitMQ and ClickHouse
 - ⚙️ Design scalable infrastructure with GitLab CI/CD, Docker, Terraform, and Hetzner/AWS
 - 💳 Implement advanced subscription/payment systems with Stripe, Laravel Cashier, and access control via AWS S3
 - 🔍 Create high-performance Elasticsearch indexing and filtering for analytics and search systems
