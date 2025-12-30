@@ -1,6 +1,6 @@
 # <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Oleksandr Pekh
 
-👋 I'm a software engineer from Ukraine with a strong focus on backend development, infrastructure automation, and clean architectural design.
+👋 Software engineer with a strong focus on backend development, infrastructure automation, and clean architectural design.
 
 ## 🚀 What I Do
 - 🧠 Build complex Laravel applications using modular monolith architecture, service-repository patterns, and data pipelines
